@@ -1,0 +1,17 @@
+{
+  "item.saitamamod.saitama_helmet": "Saitama Helmet",
+  "item.saitamamod.saitama_chestplate": "Saitama Chestplate",
+  "item.saitamamod.saitama_leggings": "Saitama Leggings",
+  "item.saitamamod.saitama_boots": "Saitama Boots",
+  "item.saitamamod.normal_punch": "Normal Punch",
+  "item.saitamamod.serious_punch": "Serious Punch",
+  "item.saitamamod.boros_summoner": "Boros Summoner",
+  "entity.saitamamod.boros": "Boros",
+  "item.saitamamod.consecutive_punches": "Consecutive Punches",
+  "item.saitamamod.serious_table_flip": "Serious Table Flip",
+  "item.saitamamod.serious_sneeze": "Serious Sneeze",
+  "item.saitamamod.serious_sideways_jumps": "Serious Sideways Jumps",
+  "item.saitamamod.hero_fragment": "Hero Fragment",
+  "item.saitamamod.hero_core": "Hero Core",
+  "item.saitamamod.broken_limiter": "Broken Limiter"
+}

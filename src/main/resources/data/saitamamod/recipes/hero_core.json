@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "FNF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "saitamamod:hero_fragment"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "saitamamod:hero_core"
+  }
+}

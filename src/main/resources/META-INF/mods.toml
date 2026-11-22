@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="saitamamod"
+version="1.0.0"
+displayName="One Punch Hero"
+authors="Community project"
+description='''Traje, poderes y un jefe inspirado en One Punch Man.'''
+[[dependencies.saitamamod]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.saitamamod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.saitamamod]]
+modId="geckolib"
+mandatory=true
+versionRange="[4.8.5,5)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.saitamamod]]
+modId="palladium"
+mandatory=true
+versionRange="[4.5.8,5)"
+ordering="AFTER"
+side="BOTH"
